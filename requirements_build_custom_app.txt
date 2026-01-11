@@ -1,3 +1,4 @@
 requests==2.10.0
 apiclient==1.0.3
 
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
